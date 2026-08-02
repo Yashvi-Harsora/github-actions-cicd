@@ -62,7 +62,7 @@ The GitHub Actions workflow performs the following steps:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/github-actions-cicd.git
+git clone https://github.com/Yashvi-Harsora/github-actions-cicd.git
 cd github-actions-cicd
 ```
 
