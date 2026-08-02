@@ -161,7 +161,7 @@ _Add browser output screenshot here._
 
 **Yashvi Harsora**
 
-GitHub: https://github.com/<YOUR_USERNAME>
+GitHub: https://github.com/Yashvi-Harsora
 
 ---
 
